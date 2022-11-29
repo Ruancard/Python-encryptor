@@ -2,4 +2,4 @@
 
 ## Status: Finish
 
-### The purpose of this project was to learn from encrypt methods
+### The purpose of this project was to learn the Basics encrypt methods
