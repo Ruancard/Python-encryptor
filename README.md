@@ -1,5 +1,5 @@
 # Python encryptor
 
-## Status: Finish
+## Status: Finished
 
 ### The purpose of this project was to learn the Basics encrypt methods
